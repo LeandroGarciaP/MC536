@@ -20,4 +20,4 @@ Estrutura de pastas:
 ## Tarefa 2 sobre Engenharia Reversa
 >
 >
-> ![Diagrama de ER para casos de covid nas últimas 24 h](images/diagrama_ER.png)
+> ![Diagrama ER](images/diagrama_ER.png)

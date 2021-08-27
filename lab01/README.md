@@ -15,7 +15,7 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-> [lab01 notebook](https://github.com/LeandroGarciaP/MC536/blob/main/lab01/notebook/lab01-api.ipynb)
+> [lab01 notebook](https://github.com/LeandroGarciaP/MC536/blob/main/lab01/notebook/lab01_api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 >

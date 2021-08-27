@@ -11,7 +11,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* 178258: `<Leandro Garcia Pereira>`
+* `178258`: `Leandro Garcia Pereira`
 
 ## Tarefa 1 sobre APIs de acesso
 

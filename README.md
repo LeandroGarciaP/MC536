@@ -2,6 +2,6 @@
 
 **Repositório para todo o conteúdo referente a matéria MC536 do aluno Leandro Garcia Pereira RA178258.**
   
-  Lista de labs atualizada
-  - [lab01](https://github.com/LeandroGarciaP/MC536/tree/main/lab01)
-  - [lab02](https://github.com/LeandroGarciaP/MC536/tree/main/lab02)
+  Lista de labs atualizada - Acesso Rápido
+  - [lab01](https://github.com/LeandroGarciaP/MC536/blob/main/lab01/notebook/lab01_api.ipynb)
+  - [lab02](https://github.com/LeandroGarciaP/MC536/blob/main/lab02/notebook/lab2-logic-model-dbpedia.ipynb)

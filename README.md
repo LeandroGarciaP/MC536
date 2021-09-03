@@ -4,3 +4,4 @@
   
   Lista de labs atualizada
   - [lab01](https://github.com/LeandroGarciaP/MC536/tree/main/lab01)
+  - [lab02](https://github.com/LeandroGarciaP/MC536/tree/main/lab02)

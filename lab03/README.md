@@ -11,8 +11,8 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `RA`: `<nome completo>`
+* `178258`: `<Leandro Garcia Pereira>`
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
+> [lab03 notebook](https://github.com/LeandroGarciaP/MC536/blob/main/lab03/notebook/lab03-nhanes.ipynb)

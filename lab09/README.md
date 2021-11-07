@@ -25,6 +25,6 @@ Estrutura de pastas:
 ## Perguntas de Pesquisa ou Queries
 
 > Liste aqui as três perguntas de pesquisa ou queries
-> * Quais foram os jogos das equipes do estado de SP no Campeonato Nacional de Clubes 1971
+> * Quais foram os jogos das equipes do estado de SP no Campeonato Nacional de Clubes 1971?
 > * Qual foi a equipe vencedora da Copa Brasil em 1984?
-> * Quais foram todos os resultados das partidas Corinthians no Campeonato Brasileiro unificado (1959 - 2021)
+> * Quais foram todos os resultados das partidas Corinthians no Campeonato Brasileiro unificado? (1959 - 2021)
